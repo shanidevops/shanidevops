@@ -1,4 +1,11 @@
-# [WORKSHOP 0](https://shanidevops.github.io)
+# [WORKSHOP 2](https://shanidevops.github.io)
+
+1. Start the first few tasks on each of the three main task sheets
+2. `linux`: basic shell commands
+3. `c`: starter `hello.c` code
+4. `aws`: ...
+
+# [WORKSHOP 1](https://shanidevops.github.io)
 
 ## Instructions
 
